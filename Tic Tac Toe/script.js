@@ -60,7 +60,7 @@ boxes.forEach(b => {
             }   
             else{
                 b.innerText="O";
-                b.style.color = "green";
+                b.style.color = "#00ff88";
                 b.disabled = true;
                 turn = true;
             } 
