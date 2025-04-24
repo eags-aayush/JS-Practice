@@ -12,6 +12,12 @@ body {
     align-items: center;
 }
 
+.projects {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
 a {
     color: cyan;
 }
